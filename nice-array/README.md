@@ -1,0 +1,1 @@
+We are trying to identify whether an array of numbers includes a number that is + or - 1 of each number that is iterated within.
